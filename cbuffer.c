@@ -12,7 +12,6 @@
 #include "cbuffer.h"
 
 #include <assert.h>
-#include <stdio.h>
 #include <string.h>  // memcpy
 
 // NOTE: internal function no null ptr assertions
